@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "LICENSE"
-hash = "2bfc1c077ee9f832ebc84f9ce81d0c3b59d2dc56d7ab112524d4e93fec892c18"
-
-[[files]]
-file = "README.md"
-hash = "1fb465ee13110ad45df8e1cbc64fe0e6af768b2175f68fe94e664897369d21f8"
-
-[[files]]
 file = "mods/aether.pw.toml"
 hash = "60a6223b39c88bca7dbf372c8560cf437377b2d4024c20712d36588216c858b2"
 metafile = true
@@ -1202,7 +1194,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "fe0c032092af5482bd2255148c55ed5b9fabdfeccff4fe24f2faf488d04c5d15"
+hash = "7888a838d0192b1aced6dc8ead5ac85771fe209e7c70bc79dfccc72ffcbd6271"
 metafile = true
 
 [[files]]
@@ -1312,7 +1304,7 @@ metafile = true
 
 [[files]]
 file = "mods/mahou-tsukai.pw.toml"
-hash = "8912d2be8a63a1e43410e8582abed3e660a35977b5edb6dc86b8c9a901e3765f"
+hash = "6bfd998a75f4e8d44c92d45637b59382c1e57f2ddd66a3579d322a58e4a20d18"
 metafile = true
 
 [[files]]

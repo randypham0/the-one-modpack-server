@@ -1,6 +1,7 @@
 name = "Mahou Tsukai"
 filename = "mahoutsukai-1.20.1-v1.34.67.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"
