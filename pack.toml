@@ -1,0 +1,13 @@
+name = "The One Modpack Server"
+author = "j"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f38a1826424897b323bf6c6a9e4d689d413e528a8b5a9a29bb59cb2def779311"
+
+[versions]
+forge = "47.3.0"
+minecraft = "1.20.1"
