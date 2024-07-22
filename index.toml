@@ -306,6 +306,11 @@ hash = "60c75c876efb9b6d72d49bba3cc40c2931a1ecf7f26ceb555f16f2552af02006"
 metafile = true
 
 [[files]]
+file = "mods/dcintegration.pw.toml"
+hash = "ec5b452599201804f40e6a9f4549849065b8428d5b046bd0638f9897e1e4b72c"
+metafile = true
+
+[[files]]
 file = "mods/do-api.pw.toml"
 hash = "8f594551016c01eca3ef1700837f98a0b73b69f6244b7f27c87a6a88c28310c8"
 metafile = true
